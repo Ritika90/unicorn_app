@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
   get 'prints/index'
+  get "/prints/send_mail" => "prints#send_mail"
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
