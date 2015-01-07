@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1093464408">
+    <data-source source="LOCAL" name="Rails myprint_app: development" uuid="78026855-99a6-4e51-8290-7220d290c7b9">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:mpa_db</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails myprint_app: test" uuid="45e0b112-3549-498a-9e2b-c839137dee41">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:mpa_db</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails myprint_app: production" uuid="d3159cd7-c249-46ab-99e7-11cf6ff62289">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:mpa_db</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
